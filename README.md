@@ -12,4 +12,5 @@ A list of awesome Node.js meetups around the world
 
 | Name | Twitter | Meetup.com |
 |------|---------|------------|
+| [BrooklynJS](http://brooklynjs.com) | [@brooklyn_js](https://twitter.com/brooklyn_js) | |
 | [ManhattanJS](http://manhattanjs.com) | [@manhattan_js](https://twitter.com/manhattan_js) | |
