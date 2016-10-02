@@ -7,3 +7,9 @@ A list of awesome Node.js meetups around the world
 | Name | Twitter | Meetup.com |
 |------|---------|------------|
 | Copenhagen Node.js | [@CphNode](https://twitter.com/CphNode) | [cph-node](https://www.meetup.com/cph-node/) |
+
+## United States
+
+| Name | Twitter | Meetup.com |
+|------|---------|------------|
+| [ManhattanJS](http://manhattanjs.com) | [@manhattan_js](https://twitter.com/manhattan_js) | |
